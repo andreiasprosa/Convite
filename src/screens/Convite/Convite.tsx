@@ -76,7 +76,7 @@ export const Convite = (): JSX.Element => {
                 <a className="text-wrapper-5" href="sms:+351919857603?&body=Eu vou!">Eu vou!</a>
               </div>
               <div className="div-wrapper">
-                <a className="text-wrapper-5" href="sms:+351919857603?&body=Eu vou!">Não vou...</a> 
+                <a className="text-wrapper-5" href="sms:+351919857603?&body=Não vou...">Não vou...</a> 
               </div>
             </div>
           </div>
