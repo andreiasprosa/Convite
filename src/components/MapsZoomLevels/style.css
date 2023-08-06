@@ -1,0 +1,15 @@
+.maps-zoom-levels {
+  background-color: #ffffff;
+  height: 300px;
+  position: relative;
+  width: 300px;
+}
+
+.maps-zoom-levels .map-of-birmingham {
+  height: 300px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}

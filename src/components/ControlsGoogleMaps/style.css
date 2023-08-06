@@ -1,0 +1,45 @@
+.controls-google-maps {
+  height: 15px;
+  position: relative;
+  width: 287px;
+}
+
+.controls-google-maps .overlap-group {
+  background-color: #f4f4f4cc;
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.controls-google-maps .text-wrapper {
+  color: #000000cc;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.controls-google-maps .overlap {
+  background-color: #f4f4f4cc;
+  height: 15px;
+  left: 122px;
+  position: absolute;
+  top: 0;
+  width: 70px;
+}
+
+.controls-google-maps .report-a-map-error-wrapper {
+  background-color: #f4f4f4cc;
+  height: 15px;
+  left: 193px;
+  position: absolute;
+  top: 0;
+  width: 94px;
+}
