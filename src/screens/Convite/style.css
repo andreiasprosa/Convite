@@ -454,12 +454,7 @@ body {
 }
 
 .convite .maps-full-map-instance {
-  align-self: stretch !important;
-  width: 100% !important;
-}
-
-.convite .design-component-instance-node {
-  width: 293px !important;
+  width: 100%;
 }
 
 .convite .overlap-wrapper {
