@@ -4,7 +4,7 @@ import "./style.css";
 import { Convite } from "./Convite"
 
 
-const app = document.getElementById("ap");
+const app = document.getElementById("app");
 const root = ReactDOMClient.createRoot(app);
 
 export const Intro = (): JSX.Element => {
