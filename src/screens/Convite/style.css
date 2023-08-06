@@ -180,7 +180,7 @@ body {
   position: relative;
   width: 211.08px;
   margin: auto;
-  animation: float-right 1s ease-in-out infinite;
+  animation: float-right 3s ease-in-out infinite;
 }
 
 .convite .overlap-group-3 {
@@ -481,7 +481,7 @@ body {
   background-color: var(--e-3cccc);
   display: flex;
   flex-direction: column;
-  height: 1148px;
+  height: fit-content;
   left: 0;
   padding: 50px;
   position: absolute;
@@ -510,6 +510,7 @@ body {
   line-height: 43.2px;
   margin-top: -1px;
   position: relative;
+  padding-bottom: 24px;
 }
 
 .convite .div-section-content-3 {
@@ -520,6 +521,7 @@ body {
   gap: 74px;
   position: relative;
   width: 100%;
+  padding-bottom: 30vw;
 }
 
 .convite .p-wrapper {
@@ -550,7 +552,7 @@ body {
   position: relative;
   transform: rotate(14.97deg);
   box-shadow: 4px 4px 8px #00000040;
-  animation: float-left 1s ease-in-out infinite;
+  animation: float-left 3s ease-in-out infinite;
 }
 
 .convite .overlap-group-4 {
@@ -646,7 +648,7 @@ body {
 }
 
 .intro .frame {
-  height: 371.96px;
+  height: 466.96px;
   position: relative;
   width: 393px;
 }

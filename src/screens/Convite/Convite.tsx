@@ -68,15 +68,15 @@ export const Convite = (): JSX.Element => {
               </div>
             </div>
             <div className="div-section-notice">
-              <p className="heading-confirme">Confirme sua presença e ajude o pai e a mãe a organizar a festa!</p>
+              <p className="heading-confirme">Confirma a tua presença e ajuda o pai e a mãe a organizar a festa!</p>
               <p className="p">Prazo para confirmações até 01/09/2023</p>
             </div>
             <div className="div-flx">
               <div className="link">
-                <div className="text-wrapper-5">Eu vou !</div>
+                <a className="text-wrapper-5" href="sms:+351916513368?&body=Eu vou!">Eu vou!</a>
               </div>
               <div className="div-wrapper">
-                <div className="text-wrapper-5">Não vou...</div>
+                <a className="text-wrapper-5" href="sms:+351916513368?&body=Eu vou!">Não vou...</a> 
               </div>
             </div>
           </div>
@@ -96,7 +96,7 @@ export const Convite = (): JSX.Element => {
             <img className="div-section-icon" alt="Div section icon" src="/img/div-section-icon-1.svg" />
             <div className="div-section-details">
               <div className="text-wrapper-6">16/09/2023 - às 15:00</div>
-              <div className="text-wrapper-7">Adicionar ao calendário</div>
+              <a className="text-wrapper-7" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=M21hbWZrNzY2OWZyYjd0MW1iNTVtNnRhOXUgZmFtaWx5MTgxNjExOTI0NjAxOTIyNzMwOTZAZw&amp;tmsrc=family18161192460192273096%40group.calendar.google.com"> Adicionar ao calendário </a>
             </div>
           </div>
           <div className="div-2">
@@ -104,7 +104,7 @@ export const Convite = (): JSX.Element => {
             <div className="div-section-details">
               <p className="text-wrapper-8">Igreja de Santa Maria de Campanhã</p>
               <p className="text-wrapper-9">Adro da Igreja de Campanhã, Porto, 4300-261, Porto</p>
-              <div className="button-ver-no-mapa">Ver no mapa</div>
+              <a className="button-ver-no-mapa" href="https://www.google.com/maps/place/Igreja+de+Santa+Maria+de+Campanh%C3%A3/@41.1538783,-8.5826537,16z/data=!4m10!1m2!2m1!1sigreja+campanha!3m6!1s0xd246482f44adaa3:0x6bf818f94c3665d9!8m2!3d41.1543382!4d-8.5736871!15sCg9pZ3JlamEgY2FtcGFuaGFaESIPaWdyZWphIGNhbXBhbmhhkgEPY2F0aG9saWNfY2h1cmNomgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVI1TW1WeVFqRjNSUkFC4AEA!16s%2Fg%2F1231m3qj?entry=ttu"> Ver no mapa</a>
             </div>
           </div>
           <div className="maps-full-map-instance">
@@ -123,8 +123,8 @@ export const Convite = (): JSX.Element => {
         <div className="overlap-wrapper">
           <div className="overlap-2">
             <div className="section">
+            <div className="heading-mensagem">Mensagem da Mafalda</div>
               <div className="div-section-body-2">
-                <div className="heading-mensagem">Mensagem da Mafalda</div>
                 <div className="div-section-content-3">
                   <div className="p-wrapper">
                     <p className="text-wrapper-10">
@@ -150,8 +150,7 @@ export const Convite = (): JSX.Element => {
                   </div>
                   <div className="p-wrapper">
                     <p className="text-wrapper-10">
-                      Vem fazer parte deste dia abençoado e divertis-te nesse
-                      momento comigo. ⛪
+                      Vem divertir-te comigo neste dia. ⛪
                     </p>
                   </div>
                 </div>
