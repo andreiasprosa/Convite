@@ -392,6 +392,12 @@ body {
   position: relative;
 }
 
+.convite .text-wrapper-6 a{
+  text-decoration: none;
+  color: var(--d-1adad);
+  font-family: Baskerville-SemiBold, Helvetica;
+}
+
 .convite .text-wrapper-6 {
   align-self: stretch;
   color: var(--d-1adad);

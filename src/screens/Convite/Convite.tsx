@@ -86,9 +86,9 @@ export const Convite = (): JSX.Element => {
             <img className="div-section-icon" alt="Div section icon" src="/img/div-section-icon-2.svg" />
             <div className="div-section-details">
               <div className="text-wrapper-6">
-                Mãe: 919857603
+                <a href="sms:+351919857603"> Mãe: 919 857 603</a>
                 <br />
-                Pai: 919133639
+                <a href="sms:+351919133639"> Pai: 919 133 639</a>
               </div>
             </div>
           </div>
