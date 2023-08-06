@@ -73,10 +73,10 @@ export const Convite = (): JSX.Element => {
             </div>
             <div className="div-flx">
               <div className="link">
-                <a className="text-wrapper-5" href="sms:+351916513368?&body=Eu vou!">Eu vou!</a>
+                <a className="text-wrapper-5" href="sms:+351919857603?&body=Eu vou!">Eu vou!</a>
               </div>
               <div className="div-wrapper">
-                <a className="text-wrapper-5" href="sms:+351916513368?&body=Eu vou!">Não vou...</a> 
+                <a className="text-wrapper-5" href="sms:+351919857603?&body=Eu vou!">Não vou...</a> 
               </div>
             </div>
           </div>
@@ -86,9 +86,9 @@ export const Convite = (): JSX.Element => {
             <img className="div-section-icon" alt="Div section icon" src="/img/div-section-icon-2.svg" />
             <div className="div-section-details">
               <div className="text-wrapper-6">
-                <a href="sms:+351919857603"> Mãe: 919 857 603</a>
+                <a href="tel:+351919857603"> Mãe: 919 857 603</a>
                 <br />
-                <a href="sms:+351919133639"> Pai: 919 133 639</a>
+                <a href="tel:+351919133639"> Pai: 919 133 639</a>
               </div>
             </div>
           </div>
