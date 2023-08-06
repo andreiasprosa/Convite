@@ -114,7 +114,7 @@ export const Convite = (): JSX.Element => {
               </h4>
               <div id="map">
                 <p>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6008.226664206672!2d-8.5826537!3d41.1538783!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd246482f44adaa3%3A0x6bf818f94c3665d9!2sIgreja%20de%20Santa%20Maria%20de%20Campanh%C3%A3!5e0!3m2!1spt-PT!2spt!4v1691340827628!5m2!1spt-PT!2spt" width="fit-content" height="450"  loading="lazy"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6008.226664206672!2d-8.5826537!3d41.1538783!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd246482f44adaa3%3A0x6bf818f94c3665d9!2sIgreja%20de%20Santa%20Maria%20de%20Campanh%C3%A3!5e0!3m2!1spt-PT!2spt!4v1691340827628!5m2!1spt-PT!2spt" width="100%" height="450"  loading="lazy"></iframe>
                 </p>
               </div>
             </div>
